@@ -1,6 +1,7 @@
 # Digit-Recognizer
 AI model recognizing digit image
 
+
 ## Environment
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1bQtLXtg7eMvmWmvYppJ9FKW1XAf_86LT#scrollTo=dc3rIWyriNtO)
 

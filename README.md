@@ -11,7 +11,6 @@ AI model recognizing digit image
 ## Model
 ### Predict probability of each digit from 0 to 10
 
-
 ```python
 class CNNModel(nn.Module):
     def __init__(self):
